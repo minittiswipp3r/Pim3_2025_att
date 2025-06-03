@@ -1,0 +1,106 @@
+C:\Users\toufi\Documents\Pim3_2025\bin\Debug\net8.0-windows7.0\Pim3_2025.exe
+C:\Users\toufi\Documents\Pim3_2025\bin\Debug\net8.0-windows7.0\Pim3_2025.deps.json
+C:\Users\toufi\Documents\Pim3_2025\bin\Debug\net8.0-windows7.0\Pim3_2025.runtimeconfig.json
+C:\Users\toufi\Documents\Pim3_2025\bin\Debug\net8.0-windows7.0\Pim3_2025.dll
+C:\Users\toufi\Documents\Pim3_2025\bin\Debug\net8.0-windows7.0\Pim3_2025.pdb
+C:\Users\toufi\Documents\Pim3_2025\bin\Debug\net8.0-windows7.0\Guna.UI2.dll
+C:\Users\toufi\Documents\Pim3_2025\bin\Debug\net8.0-windows7.0\System.Management.dll
+C:\Users\toufi\Documents\Pim3_2025\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\toufi\Documents\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.csproj.AssemblyReference.cache
+C:\Users\toufi\Documents\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.Cadastro.resources
+C:\Users\toufi\Documents\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.Login.resources
+C:\Users\toufi\Documents\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.Properties.Resources.resources
+C:\Users\toufi\Documents\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.Telas_De_Administrador.TelaAdminPrincipal.resources
+C:\Users\toufi\Documents\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.Telas_De_Administrador.UcBibliotecaAdm.resources
+C:\Users\toufi\Documents\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.Telas_De_Administrador.UcCadastroLivroAdm.resources
+C:\Users\toufi\Documents\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.Telas_De_Administrador.UcCadastroPessoaAdm.resources
+C:\Users\toufi\Documents\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.Telas_De_Administrador.UcClientesCadastradosAdm.resources
+C:\Users\toufi\Documents\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.Telas_De_Administrador.UcDevolucaoAdm.resources
+C:\Users\toufi\Documents\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.Telas_De_Administrador.UcEmprestadoAdm.resources
+C:\Users\toufi\Documents\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.Telas_De_Administrador.UcEstoqueAdm.resources
+C:\Users\toufi\Documents\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.Telas_De_Administrador.UcLivrosCadastradosAdm.resources
+C:\Users\toufi\Documents\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.Telas_De_Administrador.UcLivrosEmprestadosAdm.resources
+C:\Users\toufi\Documents\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.Telas_De_Administrador.UcPerfiesAdm.resources
+C:\Users\toufi\Documents\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.Telas_De_Administrador.UcPermissoesAdm.resources
+C:\Users\toufi\Documents\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.Telas_De_Administrador.UcSistemaAdm.resources
+C:\Users\toufi\Documents\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.Telas_De_Administrador.UcSuspenderRetomarClienteAdm.resources
+C:\Users\toufi\Documents\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.Telas_De_Administrador.UcSuspenderRetomarLivrosAdm.resources
+C:\Users\toufi\Documents\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.TelasDeBibliotecario.UcCadastraraCliente.resources
+C:\Users\toufi\Documents\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.TelasDeBibliotecario.UcCadastrarLivros.resources
+C:\Users\toufi\Documents\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.TelasDeBibliotecario.UcClientesCadastrados.resources
+C:\Users\toufi\Documents\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.TelasDeBibliotecario.UcDevolucao.resources
+C:\Users\toufi\Documents\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.TelasDeBibliotecario.UcEmprestado.resources
+C:\Users\toufi\Documents\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.TelasDeBibliotecario.UcLivrosCadastrados.resources
+C:\Users\toufi\Documents\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.TelasDeBibliotecario.UcLivros_Emprestados.resources
+C:\Users\toufi\Documents\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.TelasDeUsuario.TelaUsuarioPrincipal.resources
+C:\Users\toufi\Documents\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.TelasDeUsuario.UcBuscaUsuario.resources
+C:\Users\toufi\Documents\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.TelasDeUsuario.UcDadosPessoal.resources
+C:\Users\toufi\Documents\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.TelasDeUsuario.UcFAQ.resources
+C:\Users\toufi\Documents\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.TelasDeUsuario.UcHistorecoEmprestimo.resources
+C:\Users\toufi\Documents\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.TelasDeUsuario.UcLivrosFamosos.resources
+C:\Users\toufi\Documents\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.TelasDeUsuario.UcNotificacoes.resources
+C:\Users\toufi\Documents\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.TelasDeUsuario.UcPrincipal.resources
+C:\Users\toufi\Documents\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.TelasDeUsuario.UcRegrasEmprestimo.resources
+C:\Users\toufi\Documents\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.TelasDeUsuario.UcResultadoBuscaLivro.resources
+C:\Users\toufi\Documents\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.csproj.GenerateResource.cache
+C:\Users\toufi\Documents\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toufi\Documents\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.AssemblyInfoInputs.cache
+C:\Users\toufi\Documents\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.AssemblyInfo.cs
+C:\Users\toufi\Documents\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.csproj.CoreCompileInputs.cache
+C:\Users\toufi\Documents\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.sourcelink.json
+C:\Users\toufi\Documents\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.csproj.Up2Date
+C:\Users\toufi\Documents\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.dll
+C:\Users\toufi\Documents\Pim3_2025\obj\Debug\net8.0-windows7.0\refint\Pim3_2025.dll
+C:\Users\toufi\Documents\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.pdb
+C:\Users\toufi\Documents\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.genruntimeconfig.cache
+C:\Users\toufi\Documents\Pim3_2025\obj\Debug\net8.0-windows7.0\ref\Pim3_2025.dll
+C:\Users\toufi\Documents\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.TelasDeBibliotecario.TelaBibliotecarioPrincipal.resources
+C:\Users\toufi\Documents\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.TelasDeBibliotecario.UcBibliotecaBibliotecario.resources
+C:\Users\toufi\Documents\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.TelasDeBibliotecario.UcEstoqueBibliotecario.resources
+C:\Users\Bruno\Downloads\att pim\Pim3_2025\Pim3_2025\bin\Debug\net8.0-windows7.0\Pim3_2025.exe
+C:\Users\Bruno\Downloads\att pim\Pim3_2025\Pim3_2025\bin\Debug\net8.0-windows7.0\Pim3_2025.deps.json
+C:\Users\Bruno\Downloads\att pim\Pim3_2025\Pim3_2025\bin\Debug\net8.0-windows7.0\Pim3_2025.runtimeconfig.json
+C:\Users\Bruno\Downloads\att pim\Pim3_2025\Pim3_2025\bin\Debug\net8.0-windows7.0\Pim3_2025.dll
+C:\Users\Bruno\Downloads\att pim\Pim3_2025\Pim3_2025\bin\Debug\net8.0-windows7.0\Pim3_2025.pdb
+C:\Users\Bruno\Downloads\att pim\Pim3_2025\Pim3_2025\bin\Debug\net8.0-windows7.0\Guna.UI2.dll
+C:\Users\Bruno\Downloads\att pim\Pim3_2025\Pim3_2025\bin\Debug\net8.0-windows7.0\System.Management.dll
+C:\Users\Bruno\Downloads\att pim\Pim3_2025\Pim3_2025\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Bruno\Downloads\att pim\Pim3_2025\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.csproj.AssemblyReference.cache
+C:\Users\Bruno\Downloads\att pim\Pim3_2025\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.Cadastro.resources
+C:\Users\Bruno\Downloads\att pim\Pim3_2025\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.Login.resources
+C:\Users\Bruno\Downloads\att pim\Pim3_2025\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.Properties.Resources.resources
+C:\Users\Bruno\Downloads\att pim\Pim3_2025\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.Telas_De_Administrador.TelaAdminPrincipal.resources
+C:\Users\Bruno\Downloads\att pim\Pim3_2025\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.Telas_De_Administrador.UcSuspenderRetomarClienteAdm.resources
+C:\Users\Bruno\Downloads\att pim\Pim3_2025\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.Telas_De_Administrador.UcSuspenderRetomarLivrosAdm.resources
+C:\Users\Bruno\Downloads\att pim\Pim3_2025\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.TelasDeBibliotecario.TelaBibliotecarioPrincipal.resources
+C:\Users\Bruno\Downloads\att pim\Pim3_2025\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.TelasDeBibliotecario.UcBibliotecaBibliotecario.resources
+C:\Users\Bruno\Downloads\att pim\Pim3_2025\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.TelasDeBibliotecario.UcCadastraraCliente.resources
+C:\Users\Bruno\Downloads\att pim\Pim3_2025\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.TelasDeBibliotecario.UcCadastrarLivros.resources
+C:\Users\Bruno\Downloads\att pim\Pim3_2025\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.TelasDeBibliotecario.UcClientesCadastrados.resources
+C:\Users\Bruno\Downloads\att pim\Pim3_2025\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.TelasDeBibliotecario.UcDevolucao.resources
+C:\Users\Bruno\Downloads\att pim\Pim3_2025\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.TelasDeBibliotecario.UcEmprestado.resources
+C:\Users\Bruno\Downloads\att pim\Pim3_2025\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.TelasDeBibliotecario.UcEstoqueBibliotecario.resources
+C:\Users\Bruno\Downloads\att pim\Pim3_2025\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.TelasDeBibliotecario.UcLivrosCadastrados.resources
+C:\Users\Bruno\Downloads\att pim\Pim3_2025\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.TelasDeBibliotecario.UcLivros_Emprestados.resources
+C:\Users\Bruno\Downloads\att pim\Pim3_2025\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.TelasDeUsuario.TelaUsuarioPrincipal.resources
+C:\Users\Bruno\Downloads\att pim\Pim3_2025\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.TelasDeUsuario.UcBuscaUsuario.resources
+C:\Users\Bruno\Downloads\att pim\Pim3_2025\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.TelasDeUsuario.UcDadosPessoal.resources
+C:\Users\Bruno\Downloads\att pim\Pim3_2025\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.TelasDeUsuario.UcFAQ.resources
+C:\Users\Bruno\Downloads\att pim\Pim3_2025\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.TelasDeUsuario.UcHistorecoEmprestimo.resources
+C:\Users\Bruno\Downloads\att pim\Pim3_2025\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.TelasDeUsuario.UcLivrosFamosos.resources
+C:\Users\Bruno\Downloads\att pim\Pim3_2025\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.TelasDeUsuario.UcNotificacoes.resources
+C:\Users\Bruno\Downloads\att pim\Pim3_2025\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.TelasDeUsuario.UcPrincipal.resources
+C:\Users\Bruno\Downloads\att pim\Pim3_2025\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.TelasDeUsuario.UcRegrasEmprestimo.resources
+C:\Users\Bruno\Downloads\att pim\Pim3_2025\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.TelasDeUsuario.UcResultadoBuscaLivro.resources
+C:\Users\Bruno\Downloads\att pim\Pim3_2025\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.csproj.GenerateResource.cache
+C:\Users\Bruno\Downloads\att pim\Pim3_2025\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\Downloads\att pim\Pim3_2025\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.AssemblyInfoInputs.cache
+C:\Users\Bruno\Downloads\att pim\Pim3_2025\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.AssemblyInfo.cs
+C:\Users\Bruno\Downloads\att pim\Pim3_2025\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Downloads\att pim\Pim3_2025\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.sourcelink.json
+C:\Users\Bruno\Downloads\att pim\Pim3_2025\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.csproj.Up2Date
+C:\Users\Bruno\Downloads\att pim\Pim3_2025\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.dll
+C:\Users\Bruno\Downloads\att pim\Pim3_2025\Pim3_2025\obj\Debug\net8.0-windows7.0\refint\Pim3_2025.dll
+C:\Users\Bruno\Downloads\att pim\Pim3_2025\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.pdb
+C:\Users\Bruno\Downloads\att pim\Pim3_2025\Pim3_2025\obj\Debug\net8.0-windows7.0\Pim3_2025.genruntimeconfig.cache
+C:\Users\Bruno\Downloads\att pim\Pim3_2025\Pim3_2025\obj\Debug\net8.0-windows7.0\ref\Pim3_2025.dll

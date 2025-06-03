@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VxcBo8V07mQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bruno\\Downloads\\Nova pasta\\Pim3_2025.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bruno\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.7\\guna.ui2.winforms.2.0.4.7.nupkg.sha512",
+    "C:\\Users\\Bruno\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\Bruno\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

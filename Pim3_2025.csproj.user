@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Cadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TelasDeAdministrador\TelaAdminPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TelasDeAdministrador\UcSuspenderRetomarClienteAdm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="TelasDeAdministrador\UcSuspenderRetomarLivrosAdm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="TelasDeBibliotecario\TelaBibliotecarioPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TelasDeBibliotecario\UcBibliotecaBibliotecario.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="TelasDeBibliotecario\UcCadastrarLivros.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="TelasDeBibliotecario\UcClientesCadastrados.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="TelasDeBibliotecario\UcEstoque.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="TelasDeBibliotecario\UcCadastraraCliente.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="TelasDeBibliotecario\UcDevolucao.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="TelasDeBibliotecario\UcEmprestado.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="TelasDeBibliotecario\UcLivrosCadastrados.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="TelasDeBibliotecario\UcLivrosEmprestados.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="TelasDeUsuario\TelaUsuarioPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TelasDeUsuario\UcFAQ.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="TelasDeUsuario\UcBuscaUsuario.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="TelasDeUsuario\UcDadosPessoal.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="TelasDeUsuario\UcHistorecoEmprestimo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="TelasDeUsuario\UcLivrosFamosos.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="TelasDeUsuario\UcNotificacoes.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="TelasDeUsuario\UcPrincipal.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="TelasDeUsuario\UcRegrasEmprestimo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="TelasDeUsuario\UcResultadoBuscaLivro.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
